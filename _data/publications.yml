@@ -10,6 +10,16 @@ main:
     blog: https://mp.weixin.qq.com/s/Bn6CrEPg1PZdGAu04rjEMQ
     image: ./assets/img/pathformer.png
   
+  - title: "AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification"
+    authors: Yuxuan Chen, Shanshan Huang, Yunyao Cheng, <strong>Peng Chen</strong>, Zhongwen Rao, Yang Shu, Bin Yang, Lujia Pan, Chenjuan Guo
+    conference_short: ICDE
+    conference: IEEE International Conference on Data Engineering, 2025.
+    pdf: https://arxiv.org/pdf/2504.09993
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wM8AUA27oO0J:scholar.google.com/&output=citation&scisdr=ClHG5IWjEISsu6nx4l0:AFWwaeYAAAAAaAD3-l1KLEsaIZ2v7wSS5zYaVdU&scisig=AFWwaeYAAAAAaAD3-of9mqEdvIOOFJX1z-5CCE8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    blog: https://mp.weixin.qq.com/s/YQGV0m6zUUGpqUDAlT8DRg
+    image: ./assets/img/aimts.png
+
+
   - title: "Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems"
     authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang
     conference_short: ICLR
