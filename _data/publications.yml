@@ -1,7 +1,7 @@
 main:
 
   - title: "Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting"
-    authors: <strong>Peng Chen</strong>, Yingying Zhang, Yunyao Cheng, Yang Shu, Yihang Wang, Qingsong Wen, Bin Yang, Chenjuan Guo
+    authors: <strong>Peng Chen</strong>, Yingying Zhang, Yunyao Cheng, Yang Shu<span style="font-family:Wingdings">*</span>, Yihang Wang, Qingsong Wen, Bin Yang, Chenjuan Guo
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2024.
     pdf: https://arxiv.org/pdf/2402.05956
@@ -10,8 +10,16 @@ main:
     blog: https://mp.weixin.qq.com/s/Bn6CrEPg1PZdGAu04rjEMQ
     image: ./assets/img/pathformer.png
   
+  - title: "Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer"
+    authors: Yihang Wang, Yuying Qiu, <strong>Peng Chen</strong>, Kai Zhao, Yang Shu, Zhongwen Rao<span style="font-family:Wingdings">*</span>, Lujia Pan, Bin Yang, Chenjuan Guo<span style="font-family:Wingdings">*</span>
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2025.
+    pdf: https://arxiv.org/pdf/2405.17478
+    image: ./assets/img/Rose.png
+  
+  
   - title: "AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification"
-    authors: Yuxuan Chen, Shanshan Huang, Yunyao Cheng, <strong>Peng Chen</strong>, Zhongwen Rao, Yang Shu, Bin Yang, Lujia Pan, Chenjuan Guo
+    authors: Yuxuan Chen, Shanshan Huang, Yunyao Cheng, <strong>Peng Chen</strong>, Zhongwen Rao, Yang Shu<span style="font-family:Wingdings">*</span>, Bin Yang, Lujia Pan, Chenjuan Guo
     conference_short: ICDE
     conference: IEEE International Conference on Data Engineering, 2025.
     pdf: https://arxiv.org/pdf/2504.09993
@@ -21,7 +29,7 @@ main:
 
 
   - title: "Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems"
-    authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang
+    authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang<span style="font-family:Wingdings">*</span>
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025.
     pdf: https://arxiv.org/pdf/2410.19892
@@ -30,13 +38,6 @@ main:
     blog: https://mp.weixin.qq.com/s/hMc5lXuwPS_bryXHt5jhrQ
     image: ./assets/img/Air_DualODE.png
 
-  - title: "Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer"
-    authors: Yihang Wang, Yuying Qiu, <strong>Peng Chen</strong>, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo
-    conference_short: ICML
-    conference: International Conference on Machine Learning, 2025.
-    pdf: https://arxiv.org/pdf/2405.17478
-    image: ./assets/img/Rose.png
-  
  
   - title: "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
     authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang
@@ -46,7 +47,7 @@ main:
     image: ./assets/img/FoundTS.png
 
   - title: Weakly Guided Adaptation for Robust Time Series Forecasting
-    authors: Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo, Kai Zhao, Qingsong Wen, Bin Yang, Christian S. Jensen
+    authors: Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo<span style="font-family:Wingdings">*</span>, Kai Zhao, Qingsong Wen, Bin Yang, Christian S. Jensen
     conference_short: VLDB
     conference: International Conference on Very Large Databases, 2024.
     pdf: https://www.vldb.org/pvldb/vol17/p766-cheng.pdf
@@ -56,7 +57,7 @@ main:
     image: ./assets/img/DARF.png
   
   - title: "MagicScaler: Uncertainty-aware, Predictive Autoscaling"
-    authors: Zhicheng Pan, Yihang Wang, Yingying Zhang, Sean Bin Yang, Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo, Qingsong Wen, Xiduo Tian, Yunliang Dou, Zhiqiang Zhou, Chengcheng Yang, Aoying Zhou, Bin Yang
+    authors: Zhicheng Pan, Yihang Wang, Yingying Zhang, Sean Bin Yang, Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo, Qingsong Wen, Xiduo Tian, Yunliang Dou, Zhiqiang Zhou, Chengcheng Yang, Aoying Zhou, Bin Yang<span style="font-family:Wingdings">*</span>
     conference_short: VLDB
     conference: International Conference on Very Large Databases, 2023.
     pdf: https://www.vldb.org/pvldb/vol16/p3808-yang.pdf
