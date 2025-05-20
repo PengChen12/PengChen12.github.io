@@ -30,10 +30,10 @@ main:
     blog: https://mp.weixin.qq.com/s/hMc5lXuwPS_bryXHt5jhrQ
     image: ./assets/img/Air_DualODE.png
 
-  - title: "ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning"
+  - title: "Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer"
     authors: Yihang Wang, Yuying Qiu, <strong>Peng Chen</strong>, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2025.
     pdf: https://arxiv.org/pdf/2405.17478
     image: ./assets/img/Rose.png
   
