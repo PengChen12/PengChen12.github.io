@@ -17,6 +17,12 @@ main:
     pdf: https://arxiv.org/pdf/2405.17478
     image: ./assets/img/Rose.png
   
+  - title: "TSFM-Bench: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
+    authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang<span style="font-family:Wingdings">*</span>
+    conference_short: SIGKDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025.
+    pdf: https://arxiv.org/pdf/2410.11802
+    image: ./assets/img/FoundTS.png
   
   - title: "AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification"
     authors: Yuxuan Chen, Shanshan Huang, Yunyao Cheng, <strong>Peng Chen</strong>, Zhongwen Rao, Yang Shu<span style="font-family:Wingdings">*</span>, Bin Yang, Lujia Pan, Chenjuan Guo
@@ -39,13 +45,6 @@ main:
     image: ./assets/img/Air_DualODE.png
 
  
-  - title: "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
-    authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/pdf/2410.11802
-    image: ./assets/img/FoundTS.png
-
   - title: Weakly Guided Adaptation for Robust Time Series Forecasting
     authors: Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo<span style="font-family:Wingdings">*</span>, Kai Zhao, Qingsong Wen, Bin Yang, Christian S. Jensen
     conference_short: VLDB

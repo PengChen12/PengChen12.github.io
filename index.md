@@ -11,6 +11,8 @@ Shu](https://shuyang96.github.io). My reasearch interests focus on Time Series A
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[May. 2025]** Our paper TSFM-Bench are accepted to SIGKDD 2025.
+
 - **[May. 2025]** Our paper ReadyTS and LightGTS are accepted to ICML 2025.
   
 - **[Apr. 2025]** AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification is accepted to ICDE 2025.
