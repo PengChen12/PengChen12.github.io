@@ -16,6 +16,13 @@ main:
     conference: International Conference on Machine Learning, 2025.
     pdf: https://arxiv.org/pdf/2405.17478
     image: ./assets/img/Rose.png
+
+  - title: "LightGTS: A Lightweight General Time Series Forecasting Model"
+    authors: Yihang Wang, Yuying Qiu, <strong>Peng Chen</strong>, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo<span style="font-family:Wingdings">*</span>
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2025.
+    pdf: https://arxiv.org/pdf/2506.06005
+    image: ./assets/img/LightGTS.png
   
   - title: "TSFM-Bench: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
     authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang<span style="font-family:Wingdings">*</span>
