@@ -10,6 +10,16 @@ main:
     blog: https://mp.weixin.qq.com/s/Bn6CrEPg1PZdGAu04rjEMQ
     image: ./assets/img/pathformer.png
   
+  - title: "CC-Time: Cross-Model and Cross-Modality Time Series Forecasting"
+    authors: <strong>Peng Chen</strong>, Yihang Wang, Yang Shu, Yunyao Cheng, Kai Zhao, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo
+    conference_short: Arxiv
+    conference: Arxiv.
+    pdf: https://arxiv.org/pdf/2508.12235v3
+    # code: https://github.com/decisionintelligence/pathformer
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wYZYLbM5iCcJ:scholar.google.com/&output=citation&scisdr=ClHHn_H0EISstWEqJ7I:AFWwaeYAAAAAZsgsP7JqEMEVbiQTsODTGm1VgiM&scisig=AFWwaeYAAAAAZsgsP0_HEnCY9is-GpGGiQ3VRXg&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    # blog: https://mp.weixin.qq.com/s/Bn6CrEPg1PZdGAu04rjEMQ
+    image: ./assets/img/CCTime.png
+  
   - title: "Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer"
     authors: Yihang Wang, Yuying Qiu, <strong>Peng Chen</strong>, Kai Zhao, Yang Shu, Zhongwen Rao<span style="font-family:Wingdings">*</span>, Lujia Pan, Bin Yang, Chenjuan Guo<span style="font-family:Wingdings">*</span>
     conference_short: ICML
