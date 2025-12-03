@@ -11,6 +11,7 @@ I am a Ph.D. student in [School of Data Science and Engineering](https://dase.ec
 
 ## News
 - **[Nov. 2025]** Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing is accepted to AAAI 2026.
+  
 - **[July. 2025]** Towards Measuring and Modeling Geometric Structures in Time Series Forecasting via Image Modality is accepted to ACM MM 2025.
 
 - **[May. 2025]**  Bechamrk about Time Series Forecasting Foundation Models (TSFM-Bench) is accepted to SIGKDD 2025.
