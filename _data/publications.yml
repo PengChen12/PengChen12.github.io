@@ -28,7 +28,7 @@ main:
     image: ./assets/img/CCTime.png
   
   - title: "PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering"
-    authors: Junkai Lu\*, <strong>Peng Chen</strong>\*, Xingjian Wu\*, Yang Shu, Chenjuan Guo<span style="font-family:Wingdings">*</span>, Christian S Jensen, Bin Yang
+    authors: Junkai Lu*, <strong>Peng Chen</strong>*, Xingjian Wu\*, Yang Shu, Chenjuan Guo<span style="font-family:Wingdings">*</span>, Christian S Jensen, Bin Yang
     conference_short: ICML
     conference: International Conference on Machine Learning, 2026.
     pdf: https://arxiv.org/pdf/2602.23161
@@ -38,7 +38,7 @@ main:
     image: ./assets/img/PATRA.png
   
   - title: "Latent Causal Flow: Continuous Backdoor Adjustment for Time Series Generation"
-    authors: Changchen Song\*, <strong>Peng Chen</strong>\*, Yang Shu<span style="font-family:Wingdings">*</span>
+    authors: Changchen Song*, <strong>Peng Chen</strong>*, Yang Shu<span style="font-family:Wingdings">*</span>
     conference_short: SIGKDD
     conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.
     pdf: https://arxiv.org/pdf/2602.23161
