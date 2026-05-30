@@ -10,6 +10,10 @@ I am a Ph.D. student in [School of Data Science and Engineering](https://dase.ec
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[May. 2025]**  Causal Generation Model for Time Series (LCF) is accepted to KDD 2026. 
+
+- **[May. 2025]** Time Series Reasoning Model (PATRA) is accepted to ICML 2026.
+
 - **[Jan. 2026]** Three Time Series Models (VoT), (Aurora) and (MindTS) are accepted to ICLR 2026.
 
 - **[Nov. 2025]** Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing is accepted to AAAI 2026.
