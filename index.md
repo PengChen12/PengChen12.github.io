@@ -10,7 +10,11 @@ I am a Ph.D. student in [School of Data Science and Engineering](https://dase.ec
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
-- **[May. 2026]**  Causal Generation Model for Time Series (LCF) is accepted to KDD 2026. 
+- **[Sep. 2026]** Multimodal Time Series Foundation Model (HORAI) is accepted to NeurIPS 2027.
+
+- **[Sep. 2026]** CC-Time is accepted to ICDE 2027.
+
+- **[May. 2026]** Causal Generation Model for Time Series (LCF) is accepted to KDD 2026. 
 
 - **[May. 2026]** Time Series Reasoning Model (PATRA) is accepted to ICML 2026.
 
