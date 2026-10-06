@@ -13,7 +13,7 @@ main:
   - title: "Empowering Time Series Analysis with Large-Scale Multimodal Pretraining"
     authors: <strong>Peng Chen</strong>, Siyuan Wang, Shiyan Hu, Xingjian Wu, Yang Shu, Zhongwen Rao, Meng Wang, Yijie Li, Bin Yang, Chenjuan Guo<span style="font-family:Wingdings">*</span>
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems, 2027
+    conference: Conference on Neural Information Processing Systems, 2026
     pdf: https://arxiv.org/pdf/2602.05646
     image: ./assets/img/Horai.png
 
